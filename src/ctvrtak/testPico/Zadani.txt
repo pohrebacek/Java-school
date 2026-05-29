@@ -1,0 +1,7 @@
+Třída - InventoryItem{}
+- Má název, kvantitu a dobrovolně maximální kvantitu
+
+Načíst items - inventory.txt
+
+Načíst Orders
+-provést jen legitimní - kvantita nemůže být v mínusu, kapacita nemůže být přes maximální a item musí existovat.

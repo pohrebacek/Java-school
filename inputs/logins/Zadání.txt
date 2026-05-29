@@ -1,0 +1,14 @@
+2 soubory:
+usernames, AllPINs
+
+Soubory attempts_{1..5}.txt
+
+Do konzole:
+attempts_1: 15 valid
+...
+% of all valid: X %
+
+Vypsat soubor: validLogins.txt
+
+validní login:
+ten, kde username a PIN jsou ve zdrojových souborech na stejném øádku.

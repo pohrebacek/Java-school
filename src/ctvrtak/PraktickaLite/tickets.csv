@@ -1,0 +1,501 @@
+﻿ticketId,employeeId,department,category,priority,createdHrsAgo,status
+1000,E001,HR,Hardware,Medium,370,In Progress
+1001,E002,Finance,Network,Critical,133,Open
+1002,E004,Sales,Hardware,High,522,Closed
+1003,E004,IT,Software,High,634,In Progress
+1004,E001,Sales,Hardware,Medium,694,In Progress
+1005,E004,Marketing,Hardware,High,609,Open
+1006,E004,HR,Software,Medium,50,Open
+1007,E004,Sales,Hardware,Critical,115,In Progress
+1008,E005,Sales,Network,Medium,542,Open
+1009,E004,HR,Network,Critical,295,Open
+1010,E005,Finance,Network,Medium,304,In Progress
+1011,E003,IT,Hardware,Medium,141,Resolved
+1012,E005,IT,Access,Low,285,Open
+1013,E002,IT,Access,Critical,480,Resolved
+1014,E005,IT,Network,Critical,718,Open
+1015,E005,Marketing,Network,Medium,416,In Progress
+1016,E001,Marketing,Access,Medium,104,Resolved
+1017,E003,Marketing,Access,Critical,406,Closed
+1018,E004,Finance,Printer,High,397,Resolved
+1019,E003,IT,Printer,High,11,Resolved
+1020,E004,Marketing,Access,Medium,550,In Progress
+1021,E002,Marketing,Software,Critical,393,Resolved
+1022,E002,Sales,Printer,High,619,In Progress
+1023,E005,HR,Printer,Critical,43,Closed
+1024,E002,IT,Network,Critical,146,Resolved
+1025,E001,Marketing,Network,Medium,184,Open
+1026,E001,Finance,Access,Medium,219,Open
+1027,E002,Sales,Access,High,689,Resolved
+1028,E001,IT,Access,High,341,Closed
+1029,E003,Marketing,Hardware,Critical,100,In Progress
+1030,E003,Sales,Network,Medium,161,Open
+1031,E005,HR,Access,High,337,In Progress
+1032,E004,IT,Access,Critical,285,In Progress
+1033,E003,IT,Software,Critical,97,Open
+1034,E005,HR,Hardware,Low,228,In Progress
+1035,E003,Sales,Access,Medium,174,In Progress
+1036,E004,IT,Access,Medium,297,Closed
+1037,E002,Sales,Network,Critical,597,In Progress
+1038,E005,IT,Access,Critical,331,Resolved
+1039,E001,Sales,Network,Medium,191,In Progress
+1040,E002,Marketing,Access,Low,506,Closed
+1041,E001,Sales,Access,Critical,599,In Progress
+1042,E005,HR,Software,Critical,224,Closed
+1043,E005,Finance,Software,Medium,110,Open
+1044,E004,Sales,Software,Low,324,In Progress
+1045,E004,Finance,Access,High,641,Closed
+1046,E003,Finance,Hardware,High,225,Open
+1047,E002,Marketing,Network,Medium,260,Open
+1048,E002,HR,Network,Medium,108,In Progress
+1049,E004,Marketing,Access,Medium,656,Closed
+1050,E004,IT,Software,High,363,Resolved
+1051,E005,Sales,Software,Low,591,Resolved
+1052,E002,Marketing,Access,Critical,473,Resolved
+1053,E002,Marketing,Software,High,512,In Progress
+1054,E003,IT,Network,Medium,46,Open
+1055,E001,HR,Hardware,Low,493,Closed
+1056,E003,Finance,Access,Low,388,Resolved
+1057,E002,HR,Network,Critical,545,Closed
+1058,E004,HR,Access,Low,460,In Progress
+1059,E005,Finance,Printer,Medium,654,Open
+1060,E005,HR,Access,Low,472,Closed
+1061,E003,Sales,Network,Critical,485,Resolved
+1062,E002,Finance,Network,High,410,Closed
+1063,E003,HR,Network,Critical,486,Open
+1064,E001,HR,Software,Critical,290,Open
+1065,E003,HR,Hardware,Low,255,Open
+1066,E005,Sales,Hardware,High,462,Closed
+1067,E005,Sales,Software,Low,10,Closed
+1068,E002,Sales,Network,Critical,51,Resolved
+1069,E003,HR,Software,Low,406,In Progress
+1070,E003,Finance,Software,Low,176,Resolved
+1071,E004,Sales,Access,Critical,703,Resolved
+1072,E002,Finance,Access,Critical,650,Open
+1073,E002,Sales,Network,High,577,In Progress
+1074,E005,Marketing,Hardware,Critical,650,Closed
+1075,E003,Sales,Access,High,127,In Progress
+1076,E005,HR,Network,Medium,635,Closed
+1077,E001,Marketing,Network,Critical,9,In Progress
+1078,E005,Finance,Network,High,265,Closed
+1079,E002,Sales,Software,Medium,100,Resolved
+1080,E002,Sales,Software,Medium,28,Open
+1081,E004,Sales,Software,Critical,203,In Progress
+1082,E003,Sales,Hardware,Low,218,Closed
+1083,E003,Finance,Network,Medium,219,Closed
+1084,E001,Finance,Network,Low,562,In Progress
+1085,E002,IT,Software,Low,388,In Progress
+1086,E004,IT,Hardware,Critical,206,Resolved
+1087,E003,Marketing,Access,High,547,Resolved
+1088,E004,IT,Software,Low,57,Closed
+1089,E005,HR,Access,Critical,420,Resolved
+1090,E001,Marketing,Software,High,167,In Progress
+1091,E004,IT,Hardware,Medium,635,Open
+1092,E003,IT,Software,Critical,42,Closed
+1093,E001,Marketing,Access,Critical,636,Resolved
+1094,E005,Finance,Printer,Medium,409,Resolved
+1095,E005,Finance,Access,Low,440,Open
+1096,E004,HR,Network,Medium,195,Open
+1097,E004,IT,Printer,Low,464,Open
+1098,E004,Finance,Access,Critical,298,Closed
+1099,E002,Finance,Printer,Low,350,Resolved
+1100,E001,Marketing,Software,Low,468,Closed
+1101,E001,HR,Hardware,Low,37,Open
+1102,E004,HR,Hardware,Low,547,In Progress
+1103,E001,Sales,Access,Critical,499,Closed
+1104,E003,Finance,Printer,Medium,125,Resolved
+1105,E002,IT,Printer,Low,405,In Progress
+1106,E004,IT,Hardware,High,190,Open
+1107,E005,Finance,Hardware,Low,496,Resolved
+1108,E003,Finance,Hardware,High,561,Resolved
+1109,E002,Marketing,Software,High,7,Resolved
+1110,E002,Sales,Hardware,Medium,438,Resolved
+1111,E001,IT,Printer,High,32,Closed
+1112,E003,IT,Network,Low,374,Open
+1113,E001,HR,Software,Low,537,Open
+1114,E001,Finance,Software,Medium,42,Open
+1115,E003,HR,Access,Low,527,In Progress
+1116,E001,Sales,Hardware,Low,291,Open
+1117,E005,Finance,Hardware,High,87,In Progress
+1118,E002,IT,Network,Medium,475,Open
+1119,E003,Finance,Printer,Low,317,Open
+1120,E004,Finance,Printer,High,113,Closed
+1121,E001,HR,Network,Critical,689,In Progress
+1122,E005,Marketing,Network,High,43,Resolved
+1123,E003,IT,Hardware,Medium,89,Closed
+1124,E002,IT,Hardware,Critical,700,Closed
+1125,E001,Marketing,Printer,Critical,345,In Progress
+1126,E002,Finance,Access,Low,380,In Progress
+1127,E002,Sales,Access,Low,599,Closed
+1128,E004,Finance,Printer,Critical,239,In Progress
+1129,E005,Marketing,Hardware,Medium,450,In Progress
+1130,E003,Sales,Access,Low,375,Resolved
+1131,E002,Marketing,Software,High,122,Open
+1132,E005,Finance,Network,Low,188,Resolved
+1133,E005,Sales,Printer,Medium,627,Closed
+1134,E004,Sales,Hardware,Critical,275,Open
+1135,E005,Marketing,Network,Low,91,Resolved
+1136,E001,Marketing,Hardware,Medium,434,Closed
+1137,E001,IT,Access,High,643,Closed
+1138,E001,Marketing,Access,High,330,Open
+1139,E005,Sales,Access,High,658,Resolved
+1140,E005,Marketing,Network,Low,230,Closed
+1141,E005,IT,Printer,Medium,155,Open
+1142,E001,HR,Printer,High,136,In Progress
+1143,E004,Marketing,Printer,Medium,552,In Progress
+1144,E002,Sales,Hardware,High,460,Closed
+1145,E005,Finance,Hardware,Medium,120,In Progress
+1146,E003,HR,Printer,Low,508,Closed
+1147,E001,HR,Hardware,Medium,652,Closed
+1148,E002,Finance,Access,Medium,75,Closed
+1149,E005,Sales,Access,Medium,439,In Progress
+1150,E004,Sales,Software,Low,438,Resolved
+1151,E001,Finance,Network,Medium,411,In Progress
+1152,E001,Sales,Access,Medium,269,In Progress
+1153,E004,Finance,Network,Medium,136,Resolved
+1154,E002,HR,Network,Critical,711,Resolved
+1155,E003,IT,Printer,Medium,214,In Progress
+1156,E002,HR,Hardware,Low,556,Open
+1157,E005,HR,Software,Medium,380,Resolved
+1158,E001,Marketing,Printer,High,565,In Progress
+1159,E002,Marketing,Software,High,257,In Progress
+1160,E003,Sales,Printer,Low,423,Closed
+1161,E003,Finance,Software,Low,103,Closed
+1162,E001,Marketing,Software,Low,661,Closed
+1163,E002,Marketing,Printer,High,31,Resolved
+1164,E003,Sales,Hardware,High,523,In Progress
+1165,E002,HR,Hardware,Low,47,Resolved
+1166,E001,Marketing,Network,Critical,112,Closed
+1167,E004,Marketing,Software,High,312,Resolved
+1168,E005,HR,Network,High,411,Open
+1169,E003,Marketing,Hardware,Medium,139,Resolved
+1170,E001,Marketing,Network,Medium,31,In Progress
+1171,E003,Marketing,Network,Critical,371,In Progress
+1172,E001,IT,Network,Critical,442,Closed
+1173,E001,IT,Network,Critical,342,In Progress
+1174,E002,Marketing,Software,Medium,143,In Progress
+1175,E004,Finance,Printer,Critical,556,Closed
+1176,E005,Marketing,Printer,Medium,412,Resolved
+1177,E002,IT,Network,Medium,74,Resolved
+1178,E001,Sales,Access,Low,527,Resolved
+1179,E003,Sales,Hardware,Medium,224,Resolved
+1180,E002,Marketing,Printer,High,714,Open
+1181,E002,Finance,Hardware,Low,54,Resolved
+1182,E002,Marketing,Network,Low,653,Open
+1183,E002,Sales,Network,Medium,637,Open
+1184,E004,IT,Access,Critical,507,In Progress
+1185,E004,HR,Access,Low,185,Closed
+1186,E001,HR,Network,Medium,29,Closed
+1187,E001,Marketing,Network,Medium,420,In Progress
+1188,E004,HR,Hardware,Low,156,Resolved
+1189,E004,Sales,Access,High,629,Open
+1190,E003,Sales,Printer,Low,595,Open
+1191,E002,HR,Access,Critical,375,Resolved
+1192,E003,IT,Printer,Critical,249,In Progress
+1193,E002,Marketing,Software,Critical,686,In Progress
+1194,E001,Marketing,Network,High,148,Resolved
+1195,E001,Finance,Software,Critical,284,In Progress
+1196,E005,HR,Network,Medium,546,In Progress
+1197,E003,Sales,Software,Low,105,Closed
+1198,E004,Marketing,Access,High,634,Open
+1199,E004,Sales,Network,Medium,24,In Progress
+1200,E002,Finance,Network,Low,199,Closed
+1201,E001,HR,Network,Critical,446,In Progress
+1202,E005,Marketing,Printer,High,382,Closed
+1203,E005,Finance,Software,High,261,Open
+1204,E003,IT,Printer,High,685,In Progress
+1205,E001,HR,Hardware,Critical,54,Open
+1206,E002,Marketing,Software,Critical,252,In Progress
+1207,E001,HR,Access,Critical,125,Resolved
+1208,E005,Finance,Printer,Critical,40,In Progress
+1209,E005,HR,Hardware,Medium,110,Resolved
+1210,E004,Marketing,Software,Critical,98,In Progress
+1211,E001,Finance,Network,Medium,205,Resolved
+1212,E005,IT,Software,Critical,608,Open
+1213,E005,IT,Software,Critical,163,Closed
+1214,E005,Finance,Access,Low,530,Closed
+1215,E004,HR,Printer,Medium,404,Open
+1216,E004,Sales,Hardware,Critical,253,In Progress
+1217,E004,HR,Printer,High,613,Closed
+1218,E003,IT,Access,High,556,Resolved
+1219,E002,HR,Hardware,Medium,658,In Progress
+1220,E003,Finance,Software,Medium,171,Open
+1221,E004,Marketing,Network,Medium,21,Open
+1222,E005,IT,Hardware,High,678,In Progress
+1223,E003,HR,Hardware,Critical,362,Open
+1224,E003,IT,Software,High,406,Open
+1225,E004,Marketing,Network,High,103,In Progress
+1226,E001,IT,Network,Medium,309,Open
+1227,E004,Finance,Network,Critical,160,In Progress
+1228,E004,Finance,Access,High,335,Resolved
+1229,E005,Sales,Network,Low,641,In Progress
+1230,E004,IT,Printer,Critical,257,Closed
+1231,E002,Sales,Hardware,Low,348,Closed
+1232,E005,HR,Software,High,359,Closed
+1233,E005,Marketing,Hardware,Medium,570,Closed
+1234,E002,HR,Access,Critical,693,Resolved
+1235,E001,IT,Access,Low,359,In Progress
+1236,E003,Marketing,Network,Critical,624,Closed
+1237,E005,Marketing,Printer,High,253,Open
+1238,E004,Finance,Software,Critical,205,In Progress
+1239,E002,Sales,Network,High,457,In Progress
+1240,E005,Sales,Printer,Critical,575,In Progress
+1241,E003,Finance,Software,Medium,132,In Progress
+1242,E002,Marketing,Hardware,High,647,In Progress
+1243,E001,Finance,Hardware,Low,178,Resolved
+1244,E001,Finance,Network,Low,381,Resolved
+1245,E004,Marketing,Access,Medium,430,Open
+1246,E001,Finance,Network,Medium,676,In Progress
+1247,E004,IT,Hardware,High,590,Open
+1248,E004,Marketing,Network,Low,161,Resolved
+1249,E002,HR,Access,Medium,26,Open
+1250,E003,Finance,Hardware,Medium,372,Resolved
+1251,E001,IT,Software,Critical,112,Open
+1252,E002,Marketing,Software,Medium,264,In Progress
+1253,E002,Marketing,Hardware,High,490,In Progress
+1254,E001,Sales,Network,Critical,318,Open
+1255,E004,IT,Access,High,392,Resolved
+1256,E002,IT,Network,High,367,Resolved
+1257,E004,HR,Network,Critical,194,Open
+1258,E004,HR,Access,High,534,In Progress
+1259,E002,Sales,Printer,Low,621,Open
+1260,E005,IT,Hardware,Low,372,Resolved
+1261,E002,HR,Hardware,Low,567,Resolved
+1262,E005,Finance,Network,Critical,693,In Progress
+1263,E001,Sales,Access,Critical,277,In Progress
+1264,E005,HR,Printer,Medium,665,Closed
+1265,E002,Marketing,Network,Critical,609,Open
+1266,E001,Marketing,Access,Critical,6,Closed
+1267,E001,Sales,Hardware,Critical,329,Open
+1268,E001,Marketing,Network,Critical,33,Resolved
+1269,E004,HR,Software,Critical,73,Open
+1270,E001,Marketing,Access,Low,4,Resolved
+1271,E002,Finance,Access,Medium,658,Resolved
+1272,E003,Sales,Network,Medium,593,Closed
+1273,E003,HR,Printer,High,588,In Progress
+1274,E003,Finance,Printer,High,349,Resolved
+1275,E002,Finance,Network,Critical,95,Closed
+1276,E003,IT,Printer,Low,209,Closed
+1277,E004,Sales,Hardware,Critical,423,Closed
+1278,E004,HR,Network,Critical,371,Resolved
+1279,E002,Marketing,Network,Critical,189,Resolved
+1280,E005,HR,Network,Low,169,Closed
+1281,E002,Marketing,Network,Critical,490,Closed
+1282,E001,Finance,Software,Medium,150,Resolved
+1283,E004,IT,Software,Low,398,Open
+1284,E005,Marketing,Software,Critical,502,In Progress
+1285,E003,Finance,Network,High,566,Closed
+1286,E003,HR,Printer,Low,411,Closed
+1287,E002,Sales,Hardware,Medium,627,In Progress
+1288,E001,HR,Software,Medium,307,In Progress
+1289,E004,Finance,Access,Low,287,Closed
+1290,E005,HR,Network,Low,89,In Progress
+1291,E004,HR,Access,High,50,Open
+1292,E003,HR,Software,Low,608,Open
+1293,E002,Finance,Access,Critical,539,Resolved
+1294,E005,IT,Software,Low,679,Open
+1295,E004,Sales,Hardware,Low,370,Resolved
+1296,E004,Sales,Printer,Critical,207,In Progress
+1297,E003,Finance,Hardware,Low,113,In Progress
+1298,E001,Marketing,Printer,Critical,320,Closed
+1299,E005,HR,Printer,High,699,Open
+1300,E004,HR,Printer,Medium,434,In Progress
+1301,E005,HR,Printer,Medium,636,Open
+1302,E005,IT,Hardware,High,192,Closed
+1303,E005,HR,Printer,Critical,487,Resolved
+1304,E001,IT,Network,Medium,63,Open
+1305,E001,IT,Hardware,Low,70,Open
+1306,E001,HR,Network,Critical,548,Open
+1307,E005,IT,Software,Critical,468,Resolved
+1308,E003,Marketing,Software,Low,396,Resolved
+1309,E004,Finance,Access,Low,318,Resolved
+1310,E004,Sales,Software,High,623,In Progress
+1311,E003,HR,Network,Medium,192,In Progress
+1312,E003,HR,Access,Critical,372,In Progress
+1313,E004,IT,Network,Low,660,Closed
+1314,E003,HR,Printer,Critical,336,In Progress
+1315,E005,IT,Software,Critical,636,Closed
+1316,E001,Finance,Hardware,Critical,18,Closed
+1317,E005,HR,Hardware,Medium,504,In Progress
+1318,E003,Finance,Hardware,Medium,77,Resolved
+1319,E005,Sales,Printer,Low,634,Closed
+1320,E004,HR,Hardware,Low,625,Open
+1321,E003,Sales,Network,Medium,270,Resolved
+1322,E001,HR,Printer,High,684,Resolved
+1323,E001,IT,Software,Critical,655,Open
+1324,E005,Finance,Network,Medium,51,Open
+1325,E004,IT,Network,Low,77,In Progress
+1326,E004,Marketing,Printer,Low,597,Resolved
+1327,E005,Sales,Access,High,83,Resolved
+1328,E005,Sales,Access,Medium,567,Open
+1329,E001,Sales,Printer,Critical,524,Open
+1330,E004,HR,Printer,Critical,579,Open
+1331,E004,IT,Printer,Critical,397,In Progress
+1332,E005,Finance,Network,Low,17,Closed
+1333,E004,IT,Printer,Critical,709,In Progress
+1334,E002,Finance,Hardware,Medium,656,Open
+1335,E005,IT,Access,Critical,8,Resolved
+1336,E002,HR,Printer,Medium,103,Closed
+1337,E001,Finance,Software,Critical,227,Resolved
+1338,E005,IT,Printer,Low,429,Open
+1339,E001,IT,Access,Critical,241,Resolved
+1340,E001,Marketing,Access,High,671,Open
+1341,E001,IT,Network,Low,68,Resolved
+1342,E002,Marketing,Printer,Low,88,In Progress
+1343,E001,IT,Software,Medium,679,Open
+1344,E005,HR,Network,Medium,451,In Progress
+1345,E004,HR,Access,Critical,87,Closed
+1346,E004,Marketing,Printer,Critical,372,Open
+1347,E004,IT,Hardware,Low,586,Open
+1348,E001,Sales,Printer,Critical,525,In Progress
+1349,E003,Marketing,Software,High,0,Open
+1350,E002,Sales,Printer,Medium,53,Open
+1351,E005,Sales,Software,Critical,573,Open
+1352,E001,IT,Access,Medium,123,Open
+1353,E001,HR,Software,Low,64,Open
+1354,E002,Finance,Software,Critical,321,Closed
+1355,E004,HR,Access,Low,117,Open
+1356,E003,Marketing,Hardware,Medium,93,In Progress
+1357,E002,Finance,Network,High,686,Closed
+1358,E001,Sales,Network,Medium,337,Open
+1359,E001,IT,Hardware,Low,216,Closed
+1360,E003,Marketing,Software,Critical,483,Open
+1361,E003,HR,Hardware,Low,209,Closed
+1362,E005,Sales,Software,Medium,223,In Progress
+1363,E002,Finance,Printer,Medium,207,Resolved
+1364,E003,IT,Network,Critical,544,Resolved
+1365,E003,Finance,Software,Critical,660,In Progress
+1366,E004,Marketing,Access,High,182,Closed
+1367,E005,Sales,Hardware,Critical,197,Open
+1368,E001,Sales,Access,High,234,Resolved
+1369,E003,Marketing,Printer,Medium,241,Open
+1370,E001,Marketing,Software,Low,22,Closed
+1371,E003,IT,Network,Critical,54,In Progress
+1372,E004,IT,Access,Medium,361,Resolved
+1373,E004,Marketing,Hardware,Medium,455,Resolved
+1374,E003,Sales,Access,Critical,686,Closed
+1375,E003,Marketing,Printer,Medium,274,Open
+1376,E003,Marketing,Printer,Low,276,Resolved
+1377,E005,HR,Hardware,Low,86,Open
+1378,E005,HR,Access,High,48,Closed
+1379,E005,Finance,Network,Critical,312,Resolved
+1380,E001,Marketing,Software,Critical,391,Resolved
+1381,E004,Finance,Network,High,382,Resolved
+1382,E002,IT,Hardware,Medium,513,Closed
+1383,E005,HR,Software,Critical,684,In Progress
+1384,E001,Sales,Software,Medium,160,In Progress
+1385,E003,Finance,Access,High,291,Closed
+1386,E004,Marketing,Printer,Critical,295,Closed
+1387,E002,Finance,Printer,High,258,In Progress
+1388,E004,Marketing,Network,Medium,686,Resolved
+1389,E005,Sales,Hardware,High,364,Open
+1390,E002,HR,Network,Medium,298,Open
+1391,E005,Sales,Software,Medium,689,Closed
+1392,E003,Sales,Network,Critical,482,Closed
+1393,E003,Finance,Printer,Critical,304,In Progress
+1394,E001,HR,Software,Critical,308,In Progress
+1395,E005,HR,Printer,Low,370,In Progress
+1396,E002,Marketing,Printer,Medium,94,Closed
+1397,E004,Sales,Network,High,9,Closed
+1398,E001,Marketing,Hardware,Low,50,Open
+1399,E004,HR,Printer,High,30,In Progress
+1400,E004,Sales,Software,Medium,441,Resolved
+1401,E002,Marketing,Printer,Critical,242,Resolved
+1402,E004,IT,Printer,Low,65,Resolved
+1403,E005,Finance,Hardware,High,516,Resolved
+1404,E002,IT,Printer,Medium,505,Resolved
+1405,E005,Marketing,Printer,Medium,553,Resolved
+1406,E001,IT,Software,Critical,417,Open
+1407,E005,IT,Access,Low,289,Closed
+1408,E002,IT,Access,Medium,584,Closed
+1409,E005,Finance,Printer,Low,686,In Progress
+1410,E004,HR,Printer,Critical,694,Resolved
+1411,E001,HR,Network,Critical,167,Open
+1412,E004,HR,Access,High,449,Open
+1413,E001,Sales,Access,Medium,610,Closed
+1414,E005,HR,Printer,Medium,83,Open
+1415,E004,Sales,Hardware,High,711,Open
+1416,E003,Finance,Network,High,177,Open
+1417,E003,Finance,Access,Medium,377,Resolved
+1418,E004,Finance,Software,High,366,Closed
+1419,E002,IT,Network,High,456,Open
+1420,E002,Sales,Network,High,134,Resolved
+1421,E003,HR,Software,Critical,393,Resolved
+1422,E005,Marketing,Printer,Critical,112,Resolved
+1423,E002,Sales,Network,Low,126,Resolved
+1424,E002,IT,Hardware,High,532,Resolved
+1425,E005,Sales,Access,High,74,Resolved
+1426,E003,IT,Network,Critical,258,Open
+1427,E002,Finance,Software,High,708,Closed
+1428,E003,Finance,Access,High,491,Open
+1429,E001,Finance,Access,Low,596,Open
+1430,E003,Marketing,Access,Low,50,Closed
+1431,E005,Finance,Hardware,Low,164,Open
+1432,E003,Sales,Network,High,435,Resolved
+1433,E005,Finance,Hardware,High,85,In Progress
+1434,E004,IT,Network,Low,28,Closed
+1435,E001,Sales,Access,High,617,Resolved
+1436,E002,Finance,Access,Critical,625,Open
+1437,E001,Marketing,Software,High,409,Closed
+1438,E001,Marketing,Access,Low,178,Open
+1439,E005,Marketing,Network,Critical,261,In Progress
+1440,E003,IT,Printer,Critical,384,Open
+1441,E003,Marketing,Software,Low,592,In Progress
+1442,E001,IT,Access,Medium,709,Open
+1443,E004,Marketing,Network,High,133,In Progress
+1444,E001,Finance,Software,Low,298,In Progress
+1445,E003,IT,Software,Medium,204,In Progress
+1446,E003,Finance,Software,High,586,Closed
+1447,E002,Finance,Access,Critical,303,Open
+1448,E002,IT,Access,Medium,316,In Progress
+1449,E002,Sales,Printer,Critical,385,Open
+1450,E005,IT,Access,Medium,70,Closed
+1451,E002,Marketing,Network,Low,309,In Progress
+1452,E002,HR,Printer,High,646,Closed
+1453,E001,Finance,Hardware,Critical,548,Resolved
+1454,E002,Sales,Network,Medium,563,Closed
+1455,E004,IT,Printer,Low,304,In Progress
+1456,E003,Marketing,Printer,High,505,Closed
+1457,E001,HR,Software,Critical,397,Closed
+1458,E001,Sales,Hardware,Medium,618,In Progress
+1459,E001,Sales,Hardware,Medium,711,Closed
+1460,E005,Marketing,Software,Medium,72,Open
+1461,E001,Marketing,Software,High,6,Open
+1462,E005,HR,Access,Critical,503,Resolved
+1463,E005,Marketing,Software,High,421,Closed
+1464,E001,Sales,Printer,Critical,88,Resolved
+1465,E004,Marketing,Printer,Critical,154,Resolved
+1466,E002,Finance,Printer,Low,377,Resolved
+1467,E004,IT,Network,Critical,471,In Progress
+1468,E002,IT,Hardware,Critical,384,In Progress
+1469,E005,IT,Network,Medium,135,Open
+1470,E002,IT,Network,Critical,368,Closed
+1471,E002,HR,Access,Low,252,Open
+1472,E004,HR,Hardware,Low,570,Resolved
+1473,E004,Finance,Network,Critical,636,Closed
+1474,E004,HR,Printer,Low,621,Resolved
+1475,E002,Finance,Printer,High,132,Open
+1476,E003,Sales,Network,Critical,705,Resolved
+1477,E002,HR,Printer,Critical,605,Resolved
+1478,E004,Marketing,Network,Critical,230,In Progress
+1479,E005,IT,Software,High,658,Closed
+1480,E005,Finance,Software,Critical,98,Closed
+1481,E005,Marketing,Hardware,High,443,Open
+1482,E004,IT,Network,High,224,Resolved
+1483,E005,Sales,Printer,Medium,107,In Progress
+1484,E002,HR,Software,Medium,444,In Progress
+1485,E001,HR,Hardware,High,141,Open
+1486,E005,Finance,Network,High,211,In Progress
+1487,E004,HR,Access,Critical,421,In Progress
+1488,E003,Sales,Printer,High,177,Resolved
+1489,E001,Sales,Hardware,Medium,298,Closed
+1490,E004,Sales,Network,Critical,250,In Progress
+1491,E005,Marketing,Printer,High,698,Resolved
+1492,E003,Finance,Hardware,Critical,291,Closed
+1493,E003,Marketing,Access,Critical,173,Resolved
+1494,E003,HR,Printer,Medium,242,Closed
+1495,E002,HR,Printer,Medium,531,Open
+1496,E005,Finance,Network,Critical,456,Resolved
+1497,E001,IT,Access,Critical,673,Closed
+1498,E002,HR,Software,Low,567,In Progress
+1499,E001,Marketing,Network,Medium,221,Closed

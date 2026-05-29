@@ -1,0 +1,10 @@
+Napsat server: MathServer
+
+Server po pripojeni klienta posle klientovi priklad (int)
+
+format: /operace;prvniCislo;druheCislo (cisla random int - -100;100)
+    operace: random mezi (difference|addition|multiplication)
+Ceka na odpoved
+format odpovedi: /result;vysledek
+
+server posle, zda klient odpovedel spravne

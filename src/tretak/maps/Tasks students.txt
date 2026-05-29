@@ -1,0 +1,22 @@
+Tasks: student_scores.csv
+
+Parse + tvorba třídy.
+
+Vypište, kolik unikátních studentů psalo testy.
+
+Vytvořte (a vypište) dvě mapy:
+1. počet studentů za předmět
+2. průměrná doba trvání psaní testu za předmět
+
+Vytvořte metodu double getAverageScore(List<TestResults> results, String name)
+Vezme průměrné skóre ze všech testů pro studenta se jménem 'name'
+
+Vytvořte mapu dle vlastní kategorie:
+avg >= 85: Best
+avg >= 65: Good
+avg < 65: Average
+
+Mapa bude:
+Map<String, List<String>>
+Čili slovo kategorie a seznam jmen studentů. Využijte metodu z předchozího úkolu.
+
